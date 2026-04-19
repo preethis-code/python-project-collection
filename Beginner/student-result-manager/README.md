@@ -4,7 +4,7 @@ A simple Python command-line project to manage student results.
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
 * Add student details
 * View all students
