@@ -1,10 +1,10 @@
 # 📂 File Organizer (Python)
 
-✨ A beginner-friendly Python project that automatically organizes files into neat folders.
+ A beginner-friendly Python project that automatically organizes files into neat folders.
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
 * Sorts files by type (Images, Documents, Videos, etc.)
 * Automatically creates folders
